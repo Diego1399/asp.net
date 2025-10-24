@@ -205,3 +205,26 @@ public JsonResult listarUsuarios()
         })
     </script>
 ```
+
+## Editar en SQL
+
+```
+namespace Datos
+{
+    public class CD_Usuarios
+    {
+        public int Registrar(Usuario obj, out string Mensaje) {
+            using (SqlConnection oconexion = new SqlConnection(Conexion.cn))
+                {
+                    SqlCommand cmd = new SqlCommand(query, oconexion);
+                    cmd.Parameters.AddWithValue())
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    oconexion.Open();
+                }
+        }
+    }
+}
+
+```
+
