@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE2898-108D-4AED-AD43-051DE91DAA6F}|Datos\\Datos.csproj|c:\\users\\diego\\onedrive\\documentos\\ingenieria en ciencias y sistemas\\proyectos\\netcore\\appweb\\datos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE2898-108D-4AED-AD43-051DE91DAA6F}|Datos\\Datos.csproj|solutionrelative:datos\\cd_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AAA899-5C8B-460B-9480-9547297CBD60}|TiendaWebAdmin\\TiendaWebAdmin.csproj|C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\tiendawebadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7AAA899-5C8B-460B-9480-9547297CBD60}|TiendaWebAdmin\\TiendaWebAdmin.csproj|solutionrelative:tiendawebadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7AAA899-5C8B-460B-9480-9547297CBD60}|TiendaWebAdmin\\TiendaWebAdmin.csproj|c:\\users\\diego\\onedrive\\documentos\\ingenieria en ciencias y sistemas\\proyectos\\netcore\\appweb\\tiendawebadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C7AAA899-5C8B-460B-9480-9547297CBD60}|TiendaWebAdmin\\TiendaWebAdmin.csproj|solutionrelative:tiendawebadmin\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{374DCBA4-C419-4C68-BDDD-4A44ED03D453}|Negocio\\Negocio.csproj|c:\\users\\diego\\onedrive\\documentos\\ingenieria en ciencias y sistemas\\proyectos\\netcore\\appweb\\negocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374DCBA4-C419-4C68-BDDD-4A44ED03D453}|Negocio\\Negocio.csproj|solutionrelative:negocio\\cn_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEE2898-108D-4AED-AD43-051DE91DAA6F}|Datos\\Datos.csproj|c:\\users\\diego\\onedrive\\documentos\\ingenieria en ciencias y sistemas\\proyectos\\netcore\\appweb\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEE2898-108D-4AED-AD43-051DE91DAA6F}|Datos\\Datos.csproj|solutionrelative:datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\TiendaWebAdmin\\Web.config",
+              "RelativeDocumentMoniker": "TiendaWebAdmin\\Web.config",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\TiendaWebAdmin\\Web.config",
+              "RelativeToolTip": "TiendaWebAdmin\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-24T03:55:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\TiendaWebAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TiendaWebAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\TiendaWebAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TiendaWebAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T00:55:16.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CN_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Negocio\\CN_Usuarios.cs",
+              "RelativeDocumentMoniker": "Negocio\\CN_Usuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Negocio\\CN_Usuarios.cs",
+              "RelativeToolTip": "Negocio\\CN_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:35:06.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Datos\\Conexion.cs",
+              "RelativeToolTip": "Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:35:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CD_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Datos\\CD_Usuarios.cs",
+              "RelativeDocumentMoniker": "Datos\\CD_Usuarios.cs",
+              "ToolTip": "C:\\Users\\diego\\OneDrive\\Documentos\\Ingenieria en Ciencias y Sistemas\\Proyectos\\NetCore\\AppWeb\\Datos\\CD_Usuarios.cs",
+              "RelativeToolTip": "Datos\\CD_Usuarios.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T03:35:03.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

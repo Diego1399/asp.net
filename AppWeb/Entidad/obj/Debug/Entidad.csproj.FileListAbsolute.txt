@@ -1,0 +1,6 @@
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\bin\Debug\Entidad.dll
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\bin\Debug\Entidad.pdb
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\obj\Debug\Entidad.dll
+C:\Users\diego\OneDrive\Documentos\Ingenieria en Ciencias y Sistemas\Proyectos\NetCore\AppWeb\Entidad\obj\Debug\Entidad.pdb
